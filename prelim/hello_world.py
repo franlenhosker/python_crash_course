@@ -8,7 +8,7 @@ Your first Python program.
 
 def run():
     """ Run this file. """
-    print("Hello, world!")
+    print("Hello, Tom!")
 
 if __name__ == "__main__":
     run()
